@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VoltechStore.Api/VoltechStore.Api.csproj" />
+    <Project Path="src/VoltechStore.Application/VoltechStore.Application.csproj" />
+    <Project Path="src/VoltechStore.Domain/VoltechStore.Domain.csproj" />
+    <Project Path="src/VoltechStore.Infrastructure/VoltechStore.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VoltechStore.UnitTests/VoltechStore.UnitTests.csproj" />
+  </Folder>
+</Solution>
